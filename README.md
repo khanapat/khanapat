@@ -1,6 +1,6 @@
 ### Hi, I am trust :wave: from Thailand :thailand:
 
-- Love to learn new technical and improve my skill 	:zany_face: .
+- Love to learn new technology and improve my skill 	:zany_face: .
 - Passion without discipline is just illusion :ghost: .
 
 <!--
