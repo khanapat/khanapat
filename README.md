@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am trust 👋
+
+- love to seek and improve new technical skill 	:zany_face: .
 
 <!--
 **khanapat/khanapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
