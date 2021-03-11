@@ -1,6 +1,7 @@
-### Hi, I am trust 👋
+### Hi, I am trust :wave: from Thailand :thailand:
 
-- love to seek and improve new technical skill 	:zany_face: .
+- Love to learn new technical and improve my skill 	:zany_face: .
+- Passion without discipline is just illusion :ghost: .
 
 <!--
 **khanapat/khanapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
